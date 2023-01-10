@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "244429682406",
+    "project_id": "bionicproject1",
+    "storage_bucket": "bionicproject1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244429682406:android:e387d51d20dfc9f4416d27",
+        "android_client_info": {
+          "package_name": "com.example.bionic_project_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244429682406-m679ck5na12vo7ugkbcjpe8hiqhdpaj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQg3324VNGMt30oq26-uXpOaGar5tYWUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244429682406-m679ck5na12vo7ugkbcjpe8hiqhdpaj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244429682406-98bdn1r8k8qacj18723ftbgf49u2ll59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bionicProjectTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244429682406:android:b2cdb0f1a74c2d4f416d27",
+        "android_client_info": {
+          "package_name": "com.example.bionic_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244429682406-m679ck5na12vo7ugkbcjpe8hiqhdpaj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQg3324VNGMt30oq26-uXpOaGar5tYWUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244429682406-m679ck5na12vo7ugkbcjpe8hiqhdpaj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244429682406-98bdn1r8k8qacj18723ftbgf49u2ll59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bionicProjectTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
